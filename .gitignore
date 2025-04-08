@@ -1,0 +1,27 @@
+.DS_Store
+node-modules/
+
+# Ignora arquivos de configuração do MySQL
+my.cnf
+*.sql
+*.sql.gz
+*.sql.bz2
+*.sql.zip
+
+# Ignora diretórios de dados do MySQL
+/data/
+mysql-data/
+mysql-db/
+
+# Ignora logs do MySQL
+mysql.log
+mysql.err
+mysql-slow.log
+
+# Ignora arquivos temporários
+*.tmp
+*.temp
+
+# Ignora arquivos de backup
+*.bak
+*.backup
