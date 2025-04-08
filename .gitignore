@@ -1,10 +1,3 @@
 .DS_Store
 node/node-modules/
 mysql/
-mysql/data/
-mysql/ibdata1
-mysql/ib_logfile0
-mysql/ib_logfile1
-mysql/ib_logfile2
-mysql/mysql-bin.*
-mysql/auto.cnf
